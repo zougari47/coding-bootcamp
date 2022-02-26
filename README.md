@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- [Code Source]()
-- [Live Demo]()
+- [Code Source](https://github.com/zougari47/coding-bootcamp)
+- [Live Demo](https://review-slider-js.netlify.app/)
 
 ## My process
 
@@ -47,10 +47,6 @@ Users should be able to:
 This was my first time using GSAP on my project so I practice animation, I love this library ♥.
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 - Frontend Mentor - [@zougari47](https://www.frontendmentor.io/profile/zougari47)
 - Twitter - [@zougari47](https://www.twitter.com/zougari47)
